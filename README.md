@@ -8,4 +8,3 @@ Comprehensive analysis of the CMS October 2022 Home Health Compare refresh.
 
 ## Overview
 ### What is CMS Care Compare?
-
